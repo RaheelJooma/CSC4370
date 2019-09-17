@@ -1,2 +1,2 @@
 # CSC4370
-This Assignment For Web Programming Under Professor Henry Louis Is Used For Creating A Home Web Page
+This Is The Home Page For Web Programming Under Professor Henry Louis At Georgia State University CSC 4370
